@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755052011509",
+    "project_id": "latihan-notif-c4f0c",
+    "storage_bucket": "latihan-notif-c4f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755052011509:android:dd4e6b2ea357dee42b4abc",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755052011509-1bg6m2g05kjcauuh7ou958ssauroq3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZxV3LeQ1z9Aub4Z2FKItGc4NGb1oSBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755052011509-1bg6m2g05kjcauuh7ou958ssauroq3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

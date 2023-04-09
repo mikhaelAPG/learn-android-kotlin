@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LibraryFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID"/>
+
+    <EditText
+        android:id="@+id/et_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama"/>
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Job"/>
+
+    <EditText
+        android:id="@+id/et_job"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_created"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create"/>
+
+    <Button
+        android:id="@+id/btn_updated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update"/>
+
+    <Button
+        android:id="@+id/btn_deleted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result:"/>
+
+    <TextView
+        android:id="@+id/tv_result_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result:"/>
+
+    <TextView
+        android:id="@+id/tv_result_job"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result:"/>
+
+    <TextView
+        android:id="@+id/tv_result_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result:"/>
+
+    <TextView
+        android:id="@+id/tv_result_created_at"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result:"/>
+</LinearLayout>
